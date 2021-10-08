@@ -7,7 +7,7 @@ import java.io.OutputStream;
 import java.io.OutputStreamWriter;
 import java.io.Writer;
 
-public class TesteEscrita{
+public class TesteEscritarintStreamPrintWriter{
 
 	public static void main(String[] args) throws IOException{
 		
